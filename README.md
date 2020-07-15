@@ -1,4 +1,4 @@
 # ML-Bootcamp
 codeforcause ML bootcamp
-- Face recognition
+- Face Detection
 - Invisible cloak
